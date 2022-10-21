@@ -68,7 +68,6 @@ AUTO_FUNC_PREFIX = 'f_'
 # Map the Windows API to a capability abbreviation
 apiPurposeDict = {
     'socket':'netwB',
-    #WSAStartup':'netwC',
     'connect':'netwC',
     'InternetOpen':'netwC',
     'InternetOpenA':'netwC',
